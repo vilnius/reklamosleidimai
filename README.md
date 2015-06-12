@@ -1,6 +1,6 @@
 # Išorinės reklamos leidimai
 
-Pateikiama informacija apie Vilniaus miesto savivaldybės išduotus reklamos leidimus
-Informacija atnaujinama rankiniu būdu.
+Pateikiama informacija apie Vilniaus miesto savivaldybės išduotus reklamos leidimus.
 
-Informacija Google Docs https://goo.gl/nDOMtx
+Informacija atnaujinama automatiškai, ketvirtadienį 22:20.
+
